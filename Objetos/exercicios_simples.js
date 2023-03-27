@@ -2,7 +2,6 @@
 Exercicio 1: 
 Crie um objeto  "person" com as propriedades "name", "age" e "sex". Atribua valores a essas propriedades e imprima o objeto na consola.
 
-
 Exercicio 2: 
 Adiciona um método ao objeto "person" chamado "greet" que imprima uma mensagem  na consola.
 
